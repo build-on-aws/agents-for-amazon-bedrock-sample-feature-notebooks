@@ -25,6 +25,7 @@ This repository contains Jupyter notebooks demonstrating the use of Amazon Bedro
 ## Prerequisites
 
 - AWS account with access to Amazon Bedrock
+- Enabled access to required models in region (Anthropic Claude 3 Sonnet and Haiku)
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries: boto3==1.34.144, matplotlib
